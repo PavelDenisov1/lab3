@@ -1,0 +1,10 @@
+class node:
+    telephone: str
+    weight: str
+    inn: str
+    passport_series: str
+    occupation: str
+    age: str
+    academic_degree: str
+    worldview: str
+    address: str
